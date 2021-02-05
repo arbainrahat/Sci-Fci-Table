@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 6_Terrain_Low_Poly_Unity_Terrain
+  m_Shader: {fileID: 4800000, guid: 53c20df9040a67244b5336994a31a44a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureBase:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureTop:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Blend1: 1
+    - _Blend2: 1
+    - _Blend3: 1
+    - _Blend4: 1
+    - _BlendTop: 1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Metallic2: 0.232
+    - _Metallic3: 0.252
+    - _Metallic4: 0.197
+    - _Metallic5: 0.17
+    - _MetallicBase: 0.232
+    - _MetallicTop: 0.136
+    - _Mode: 0
+    - _NoiseMultiplier: 4
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Smoothness2: 0.5
+    - _Smoothness3: 0.245
+    - _Smoothness4: 0.19
+    - _Smoothness5: 0.163
+    - _SmoothnessBase: 0.3
+    - _SmoothnessTextureChannel: 0
+    - _SmoothnessTop: 0.177
+    - _SpecularHighlights: 1
+    - _Split0: 0.001
+    - _Split1: 10
+    - _Split2: 20
+    - _Split3: 30
+    - _Split4: 40
+    - _SplitTop: 50
+    - _SrcBlend: 1
+    - _Tex2BlendSharpness: 1.33
+    - _Tex2TileX: 1
+    - _Tex2TileY: 1
+    - _Tex2TileZ: 1
+    - _Tex3BlendSharpness: 1
+    - _Tex3TileX: 1
+    - _Tex3TileY: 1
+    - _Tex3TileZ: 1
+    - _Tex4BlendSharpness: 1
+    - _Tex4TileX: 1
+    - _Tex4TileY: 1
+    - _Tex4TileZ: 1
+    - _Tex5BlendSharpness: 1
+    - _Tex5TileX: 1
+    - _Tex5TileY: 1
+    - _Tex5TileZ: 1
+    - _TexBaseBlendSharpness: 1
+    - _TexBaseTileX: 1
+    - _TexBaseTileY: 1
+    - _TexBaseTileZ: 1
+    - _TexTopBlendSharpness: 1
+    - _TexTopTileX: 1
+    - _TexTopTileY: 1
+    - _TexTopTileZ: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _CentrePoint: {r: 250, g: 0, b: 250, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DirectionScalars: {r: 0, g: 1, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Tint2: {r: 0.19117647, g: 0.5314401, b: 1, a: 1}
+    - _Tint3: {r: 0.3602941, g: 1, b: 0.39117652, a: 1}
+    - _Tint4: {r: 0.8893629, g: 0.9852941, b: 0.28979236, a: 1}
+    - _Tint5: {r: 0.99264705, g: 0.68317467, b: 0.21896623, a: 1}
+    - _TintBase: {r: 1, g: 0.29411763, b: 0.9805275, a: 1}
+    - _TintTop: {r: 1, g: 0.3455882, b: 0.3455882, a: 1}
